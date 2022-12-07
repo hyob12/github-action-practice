@@ -32,4 +32,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-114-hyob12-s3 \
             --delete
-        working-directory: "./fe-sprint-my-agora-states-server-reference/my-agora-states-client"
+        working-directory: ./my-agora-states-client
